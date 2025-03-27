@@ -46,6 +46,3 @@ def main():
     print(f"Your total salary is: {salary + bonus}$")
 
 main()
-
-print('test for understanding git commits')
-
